@@ -1,0 +1,4 @@
+Prompt 1: "Qual foi o produto mais vendido no último trimestre?"
+Prompt 2: "Quais são os padrões de compra dos clientes com maior ticket médio?"
+Prompt 3: "Existe alguma tendência nas vendas por categoria de produto?"
+Prompt 4: "Quais são os meses com maiores picos de vendas?"
